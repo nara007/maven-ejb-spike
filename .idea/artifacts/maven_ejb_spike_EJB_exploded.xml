@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="maven-ejb-spike:EJB exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/maven_ejb_spike_EJB_exploded</output-path>
+    <root id="archive" name="maven-ejb-spike_EJB exploded.jar">
+      <element id="javaee-facet-resources" facet="maven-ejb-spike/ejb/EJB" />
+      <element id="module-output" name="maven-ejb-spike" />
+    </root>
+  </artifact>
+</component>
